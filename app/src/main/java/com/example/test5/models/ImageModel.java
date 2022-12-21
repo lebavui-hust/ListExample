@@ -1,4 +1,4 @@
-package com.example.test5;
+package com.example.test5.models;
 
 public class ImageModel {
     private String caption;

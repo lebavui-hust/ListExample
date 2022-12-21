@@ -1,4 +1,4 @@
-package com.example.test5;
+package com.example.test5.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.test5.R;
+import com.example.test5.models.ImageModel;
 
 import java.util.ArrayList;
 import java.util.List;

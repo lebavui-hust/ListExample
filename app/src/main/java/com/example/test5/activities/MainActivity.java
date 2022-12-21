@@ -1,6 +1,4 @@
-package com.example.test5;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.test5.activities;
 
 import android.app.ListActivity;
 import android.os.Bundle;
@@ -8,6 +6,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+import com.example.test5.R;
 
 import java.util.ArrayList;
 import java.util.List;
